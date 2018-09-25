@@ -1,2 +1,2 @@
 # pyraminx
-School project of @petrtsv and Mark Ipatov.
+School project of @petrtsv and @MarkTheHopeful.
